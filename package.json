@@ -1,0 +1,11 @@
+{
+  "name": "fileparserbyline",
+  "version": "1.0.0",
+  "description": "some code that permit to edit a file line by line in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "parse": "node ./parser.js"
+  },
+  "author": "Nabil-bali",
+  "license": "ISC"
+}
