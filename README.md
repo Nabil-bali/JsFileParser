@@ -19,5 +19,5 @@ Define how to modify the file between the 2 comments in parser.js file (for exem
 
 With the current code, You can convert Yoda speaking langage into normal sentences. 
 
-Set input with : <"Soccer - I play">.
-You will get an output of : <"I play soccer.">.
+Set input with : `"Soccer - I play"`.
+You will get an output of : `"I play soccer."`.
