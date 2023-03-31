@@ -14,3 +14,8 @@ Define how to modify the file between the 2 comments in parser.js file (for exem
 - Place the text You wan to mofify in "input.txt",
 - Just run the command "node ./parser.js",
 - Then retrieve the parsed text in "output.txt" file.
+
+## Exemple
+
+With the current code, You can convert Yoda speaking langage into normal sentences. 
+Set input with : "Soccer - I play", you will get an output of : "I play soccer.".
